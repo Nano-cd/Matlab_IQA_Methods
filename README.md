@@ -19,7 +19,7 @@ $ readme README.md
 
 You need:
 1)define your own data and train-test split
-2)run Comp_main.m (only for methods: BRISQUE FRIQUEE  GLBP) to get features.
+2)run Comp_main.m (only for methods: BRISQUE FRIQUEE  GLBP) to get features
 3)run SSEQ/SSEQ_MAIN.m for methods:SSEQ
 4)run niqqe_release/example.m for methods:NIQE
 
